@@ -1,4 +1,6 @@
 # hackmd_image_lifetime
+## 最新公告
+- Hackmd官方已將所有圖片一併上傳到Hackmd專屬空間，不再依賴第三方圖床
  自動拜訪md筆記中的圖片，避免圖片過期而死去
  本程式只在Windows系統下可正常運作
 ## 原版
